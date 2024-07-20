@@ -3,7 +3,18 @@ Simple fuzzy search for unity
 
 ## How to use Fuzzy Search step by step
 
-### 1) Using hiekichan-unity-fuzz.package
+### 1) Using Fuzz.cs (recommended)
+
+```
+import or just copy file Fuzz.cs into your project
+```
+
+```C#
+using Hieki;
+
+```
+
+### 2) Using hiekichan-unity-fuzz.package
 
 ```
 import file hiekichan-unity-fuzz.package to your project
@@ -14,15 +25,6 @@ using FuzzySearch;
 
 ```
 
-### 2) Using Fuzz.cs
-```
-import file Fuzz.cs into your project
-```
-
-```C#
-using Hieki;
-
-```
 
 ### Example
 
