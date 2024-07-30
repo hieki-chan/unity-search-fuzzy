@@ -1,6 +1,0 @@
-﻿  pch.cpp
-  dllmain.cpp
-  fuzzy-search.cpp
-  Generating Code...
-     Creating library C:\Projects\fuzzy-search-cpp\x64\Debug\fuzzy-search.lib and object C:\Projects\fuzzy-search-cpp\x64\Debug\fuzzy-search.exp
-  fuzzy-search.vcxproj -> C:\Projects\fuzzy-search-cpp\x64\Debug\fuzzy-search.dll
