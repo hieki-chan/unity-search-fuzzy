@@ -9,7 +9,7 @@
   "changelogUrl": "https://example.com/changelog.html",
   "licensesUrl": "https://example.com/licensing.html",
   "author": {
-    "name": "Hieki",
+    "name": "Hieki Chan",
     "email": "hieuca205@example.com",
     "url": "https://github.com/hieki-chan/unity-search-fuzzy"
   },
@@ -17,7 +17,7 @@
     {
       "displayName": "Sample Scene",
       "description": "Sample Fuzzy Search",
-      "path": "Samples~/Sample Scene"
+      "path": "Samples~Sample Scene"
     }
   ]
 }
