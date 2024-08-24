@@ -3,26 +3,31 @@ Simple fuzzy search for unity
 
 ## How to use Fuzzy Search step by step
 
-### Using Fuzz.cs
+### Import Package
 
 ```
-import or just copy file Fuzz.cs into your project
+Window > Package Manager > (+) Plus Button > Add Package form git Url
 ```
 
-```C#
-using Hieki;
+git URL:
 
+```
+https://github.com/hieki-chan/unity-search-fuzzy.git
 ```
 
 ### Example
 
 ```C#
-// Example
-double ratio = Fuzz.Ratio("fuzzy search", "fuzi serxh");
-Debug.Log(ratio);  // unity
-Console.WriteLine(ratio);  //console app
+using Hieki.Search;
+
 ```
 
+```C#
+// Example
+double ratio = Fuzzy.Ratio("something went wrong", "smthing go wrog");
+Debug.Log(ratio);  // unity
+-> 0.4516
+```
 
 
 ```
